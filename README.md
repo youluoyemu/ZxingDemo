@@ -1,0 +1,2 @@
+# ZxingDemo
+Zxing library practice
